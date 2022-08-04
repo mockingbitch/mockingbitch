@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Hi, I'm Phong Tran!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
@@ -27,7 +27,7 @@ Mockingbitch@github
 
 #### A little more about me
 ```javascript
-const badri = {
+const PHONG TRAN = {
   pronouns: "He" | "Him",
   code: ["Javascript", "PHP", "HTML", "CSS"],
   askMeAbout: ["web dev", "fullstack dev"],
@@ -76,8 +76,8 @@ const badri = {
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/im._.feng"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/jarvis.ejr"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/im._.feng"><img src="https://img.shields.io/badge/-@phongtran__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/jarvis.ejr"><img src="https://img.shields.io/badge/-@phongtran-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
