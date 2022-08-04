@@ -40,6 +40,12 @@ const PHONG TRAN = {
       frontend: ["ReactJS", "RiotJs"],
       backend: ["NodeJs", "Symfony", "Laravel", "CakePHP"]
   },
+  databases: ["mysql", "mariaDB", "postgreSQL", "mssql"],
+  data_visualation: ["kibana"],
+  devops: ["aws", "docker", "kubernetes"],
+  game_engines: ["unity"],
+  other: ["linux", "git", "nginx"]
+  
 }
 ```
 <hr>
