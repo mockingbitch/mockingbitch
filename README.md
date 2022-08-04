@@ -68,16 +68,16 @@ const PHONG TRAN = {
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mockingbitch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mockingbitch&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <hr>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/im._.feng"><img src="https://img.shields.io/badge/-@phongtran__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/jarvis.ejr"><img src="https://img.shields.io/badge/-@phongtran-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/im._.feng"><img src="https://img.shields.io/badge/-@im._.feng-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/jarvis.ejr"><img src="https://img.shields.io/badge/-@jarvis.ejr-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
