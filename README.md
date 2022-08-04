@@ -24,7 +24,7 @@ Mockingbitch@github
 🎵 Love The Beatles, Queen, Ed Sheeran and Eminem
 ```
 <hr>
-
+<hr>
 #### A little more about me
 ```javascript
 const PHONG TRAN = {
