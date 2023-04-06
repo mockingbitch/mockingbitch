@@ -38,7 +38,7 @@ const PHONG TRAN = {
   },
   frameworks: {
       frontend: ["ReactJS", "RiotJs"],
-      backend: ["NodeJs", "Symfony", "Laravel", "CakePHP", "Gin Gonic"]
+      backend: ["NodeJs", "Symfony", "Laravel", "CakePHP", "PHP Lumen", "Gin Gonic"]
   },
   databases: ["mysql", "mariaDB", "postgreSQL", "mssql"],
   data_visualation: ["kibana"],
