@@ -30,21 +30,21 @@ Mockingbitch@github
 ```javascript
 const PHONG TRAN = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "PHP", "HTML", "CSS"],
+  code: ["Javascript", "PHP", "Go", "HTML", "CSS"],
   askMeAbout: ["web dev", "fullstack dev"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["PHP", "JS"],
+      backend: ["PHP", "JS", "Go"],
   },
   frameworks: {
       frontend: ["ReactJS", "RiotJs"],
-      backend: ["NodeJs", "Symfony", "Laravel", "CakePHP"]
+      backend: ["NodeJs", "Symfony", "Laravel", "CakePHP", "Gin Gonic"]
   },
   databases: ["mysql", "mariaDB", "postgreSQL", "mssql"],
   data_visualation: ["kibana"],
-  devops: ["aws", "docker", "kubernetes"],
+  devops: ["aws", "docker", "kubernetes", "CI/CD"],
   game_engines: ["unity"],
-  other: ["linux", "git", "nginx"]
+  other: ["linux", "git", "nginx", "Vim Script", "Lua"]
   
 }
 ```
